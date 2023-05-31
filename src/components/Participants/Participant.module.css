@@ -1,0 +1,11 @@
+.photo{
+    margin-top: 10px;
+    height: 55px;
+    width: 60px;
+    border-radius: 25px;
+}
+
+.paginationButton{
+    font-weight: bold;
+    font-size: 20px;
+}

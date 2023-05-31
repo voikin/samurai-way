@@ -1,0 +1,15 @@
+.dialogList{
+display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+
+.allPerson{
+    padding: 20px;
+}
+
+.messagesAll{
+    padding: 20px;
+}
+
+
+

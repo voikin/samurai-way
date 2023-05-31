@@ -1,0 +1,9 @@
+.post{
+    color:saddlebrown;
+}
+.post img{
+    margin-top: 10px;
+    height: 50px;
+    width: 55px;
+    border-radius: 25px;
+}

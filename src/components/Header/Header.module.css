@@ -1,0 +1,16 @@
+.header{
+    grid-area:header;
+    background-color: goldenrod;
+}
+
+.header img{
+    width: 105px;
+}
+
+.loginBlok{
+float: right;
+}
+.login{
+    padding: 10px;
+    font-size: 25px;
+}
